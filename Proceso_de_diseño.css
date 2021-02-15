@@ -16,7 +16,7 @@
    .Desing{
     top: 0;
     left: 0;
- display: flex;
+    display: flex;
     align-items: flex-start;
   width: 1349px;
   height: 80px;
@@ -151,6 +151,20 @@ li a:hover{
     height: 110px;
   }
 
+  /* imagenes individuales */
+
+  .gor2{
+    width: 100px;
+    height: 70px;
+  }
+  .auri{
+    width: 100px;
+    height: 100px;
+  }
+  .chad1{
+    width: 100px;
+    height: 100px;
+  }
 
   .caja-luz{
     position: fixed;
