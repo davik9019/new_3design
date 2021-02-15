@@ -99,25 +99,7 @@ li a:hover{
   height: 600px;
   background-color:#F6F6F6;
   border: 1px solid #0a0a0a;
-  }
-
- 
-  .img{
-
-  width: 110px;
-  height: 50px;
   padding: 1px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  background-color:black;
-
-  }
-  .img img{
-    width: 100px;
-    height: 100px;
   }
 
   #tresdsign{
@@ -125,37 +107,50 @@ li a:hover{
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 1px;
+    height: 110px;
   }
    #apartament{
 
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 1px;
+    height: 110px;
   }
    #chad{
 
     display: flex;
     flex-direction: row;
-    background-color: white;
+    background-color: red;
+    margin: 1px;
+    height: 110px;
   }
    #Satiros{
 
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 1px;
+    height: 110px;
   }
    #san_gregorio{
 
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 1px;
+    height: 110px;
   }
    #auriculares{
 
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 1px;
+    height: 110px;
   }
+
 
   .caja-luz{
     position: fixed;
