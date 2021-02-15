@@ -95,7 +95,7 @@ li a:hover{
   align-items: center;
   justify-content: center;
   align-self: center;
-  width: 1000px;
+  width: 600px;
   height: 600px;
   background-color:#F6F6F6;
   border: 1px solid #0a0a0a;
@@ -107,48 +107,54 @@ li a:hover{
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin: 1px;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
    #apartament{
 
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin: 1px;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
    #chad{
 
     display: flex;
     flex-direction: row;
-    background-color: red;
-    margin: 1px;
+    background-color: white;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
    #Satiros{
 
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin: 1px;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
    #san_gregorio{
 
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin: 1px;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
    #auriculares{
 
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin: 1px;
+    margin: 10px;
     height: 110px;
+    padding: 5px;
   }
 
   /* imagenes individuales */
@@ -156,66 +162,82 @@ li a:hover{
   .gor2{
     width: 100px;
     height: 70px;
+    padding: 5px;
   }
   .auri{
     width: 100px;
     height: 100px;
+    padding: 5px;
   }
   .chad1{
     width: 100px;
     height: 100px;
+    padding: 5px;
   }
   .descamaleon{
     width: 85px;
     height: 100px;
+    padding: 5px;
   }
   .deslobo{
     width: 100px;
     height: 100px;
+    padding: 5px;
   }
   .deslobo1{
     width: 90px;
     height: 100px;
+    padding: 5px;
   }
   .sat1{
     width: 100px;
     height: 100px;
+    padding: 5px;
   }
   .sat2{
     width: 70px;
     height: 100px;
+    padding: 5px;
   }
   .sat3{
     width: 100px;
     height: 100px;
+    padding: 5px;
   }
   .apa1{
     width: 100px;
     height: 80px;
+    padding: 5px;
   }
   .apa2{
     width: 100px;
     height: 60px;
+    padding: 5px;
   }
   .san1{
     width: 80px;
     height: 100px;
+    padding: 5px;
   }
   .san2{
     width: 80px;
     height: 100px;
+    padding: 5px;
   }
   .san3{
     width: 100px;
     height: 95px;
+    padding: 5px;
   }
   .san4{
     width: 100px;
     height: 55px;
+    padding: 5px;
   }
   .san5{
     width: 100px;
     height: 55px;
+    padding: 5px;
   }
 
 
