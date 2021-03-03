@@ -105,7 +105,11 @@ li a:hover{
   #tresdsign{
 
     display: flex;
-    flex-direction: row;
+   flex-direction: row;
+   flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -115,6 +119,10 @@ li a:hover{
 
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -124,6 +132,10 @@ li a:hover{
 
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -133,6 +145,10 @@ li a:hover{
 
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -142,6 +158,10 @@ li a:hover{
 
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -151,6 +171,10 @@ li a:hover{
 
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     background-color: white;
     margin: 10px;
     height: 110px;
@@ -262,46 +286,71 @@ li a:hover{
     height: 70vh;
     padding: 5px;
    }
-   .caja-luz .apa1{
-    width: 960px;
-    height: 540px;
+   .caja-luz .gor2{
+    width: 760px;
+    height: 520px;
    }
-   .caja-luz .ft1{
+   .caja-luz .auri{
+    width: 550px;
+    height: 550px;
+   }
+   .caja-luz .chad1{
+     width: 550px;
+    height: 550px;
+   }
+   .caja-luz .descamaleon{
+     width: 650px;
+    height: 550px;
+   }
+   .caja-luz .deslobo{
+    width: 650px;
+    height: 550px;
+   }
+   .caja-luz .deslobo1{
     width: 720px;
-    height: 486px;
-   }
-   .caja-luz .g1{
-    width: 470px;
     height: 620px;
    }
-   .caja-luz .g2{
-    width: 445px;
-    height: 600px;
-   }
-   .caja-luz .g3{
-    width: 276px;
-    height: 620px;
-   }
-   .caja-luz .m1{
-    width: 1024px;
-    height: 503px;
-   }
-   .caja-luz .ap1{
+   .caja-luz .sat1{
     width: 800px;
     height: 600px;
    }
-   .caja-luz .sat1{
+   .caja-luz .sat2{
     width: 411px;
     height: 625px;
    }
-   .caja-luz .sat2{
+   .caja-luz .sat3{
     width: 615px;
     height: 545px;
    }
-   .caja-luz .fr1{
+   .caja-luz .apa1{
     width: 800px;
     height: 600px;
    }
+   .caja-luz .apa2{
+    width: 960px;
+    height: 540px;
+   }
+   .caja-luz .san1{
+    width: 510px;
+    height: 620px;
+   }
+   .caja-luz .san2{
+    width: 510px;
+    height: 620px;
+   }
+   .caja-luz .san3{
+    width: 600px;
+    height: 620px;
+   }
+   .caja-luz .san4{
+    width: 1024px;
+    height: 503px;
+   }
+   .caja-luz .san5{
+    width: 1024px;
+    height: 503px;
+   }
+
    .caja-luz:target{
     transform: scale(1);
    }
